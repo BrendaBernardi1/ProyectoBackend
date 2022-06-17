@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "timestamp": 1654565554505,
+      "productos": [
+          {
+            "name": "Alfajor Terrabusi",
+            "price": 100,
+            "photo": "https://carrefourar.vtexassets.com/arquivos/ids/194970/77903792_02.jpg?v=637516044200300000",
+            "id": 2,
+            "stock": 30
+          },
+          {
+            "name": "Alfajor Bon o Bon",
+            "price": 120,
+            "photo": "https://arcorencasa.com/wp-content/uploads/2020/05/1004303.jpg",
+            "id": 3,
+            "stock": 25
+          }
+      ]
+    }
+  ]

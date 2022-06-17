@@ -1,0 +1,11 @@
+.Form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(226, 43, 119);
+}
+
+body {
+    background-color: black;
+}

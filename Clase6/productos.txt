@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Alfajor Milka Oreo",
+    "price": 130,
+    "photo": "https://http2.mlstatic.com/D_NQ_NP_948420-MLA44561409769_012021-O.jpg",
+    "id": 1,
+    "stock": 40
+  }
+  {
+    "name": "Alfajor Terrabusi",
+    "price": 100,
+    "photo": "https://carrefourar.vtexassets.com/arquivos/ids/194970/77903792_02.jpg?v=637516044200300000",
+    "id": 2
+    "stock": 30
+  }
+  {
+    "name": "Alfajor Bon o Bon",
+    "price": 120,
+    "photo": "https://arcorencasa.com/wp-content/uploads/2020/05/1004303.jpg",
+    "id": 3
+    "stock": 25
+  }
+]
