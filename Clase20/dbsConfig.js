@@ -1,7 +1,7 @@
 import mongoose from "mongoose";
 
 //MONGODB CONFIG
-export const db = mongoose.connect("mongodb+srv://Sasha:745431@cluster0.hzrgp.mongodb.net/gente?retryWrites=true&w=majority", 
+export const db = mongoose.connect("mongodb+srv://brendabernardi22:<password>@cluster0.uduv7.mongodb.net/?retryWrites=true&w=majority", 
 { useNewUrlParser: true })
 
 const productSchema = new mongoose.Schema({
