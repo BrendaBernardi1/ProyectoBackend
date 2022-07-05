@@ -11,7 +11,7 @@ const productSchema = new mongoose.Schema({
     photo: {type: String, required: true},
     code: {type: String, required: true, max: 10},
     desc: {type: String, required: true, max: 100},
-})
+}) 
 
 export const productsModel = mongoose.model("Products", productSchema);
 
